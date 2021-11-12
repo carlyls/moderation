@@ -1,6 +1,6 @@
 ### Simulation of data for moderation project ###
 
-## Plan documentation: https://docs.google.com/document/d/1t2ld8Vj1xxdm9FwklDUiOgLprDir_1LmELZpoYLGmcA/edit
+## See Simulation Plan in Moderation Dropbox folder for documentation
 
 # smaller difference
 n.trial <- 1000
